@@ -19,5 +19,9 @@ def get_student_name(student):
     "student"
     return student.name
     
+def sonar_rule_probe():
+    probe_value = 42
+    return None
+
 if __name__ == "__main__":
     main()
