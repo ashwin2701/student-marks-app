@@ -1,4 +1,4 @@
-def calculate_average(marks)
+def calculate_average(marks)a
     """Calculate the average of student marks."""
     if not marks:
         raise ValueError("Marks list cannot be empty")
