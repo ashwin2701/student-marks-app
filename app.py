@@ -15,6 +15,7 @@ def main():
     print(f"Average: {average}")
 
 def get_student_name(student):
+    "student"
     return student.name
     
 if __name__ == "__main__":
