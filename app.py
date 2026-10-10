@@ -1,3 +1,4 @@
+SECRET="SECRET"
 def calculate_average(marks):
     total = 0
     for mark in marks:
